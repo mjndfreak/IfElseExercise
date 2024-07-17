@@ -26,3 +26,13 @@ else
 {
     Console.WriteLine("Number equals to 10.");
 }
+
+//checks if number is odd or even 
+if (number % 2 == 0)
+{
+    Console.WriteLine("This number is even.");
+}
+else
+{
+    Console.WriteLine("This number is odd");
+}
